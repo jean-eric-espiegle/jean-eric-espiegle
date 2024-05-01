@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @jean-eric-espiegle, a Backend Developer Specialised in Python
+- 👋 Hi, I’m @jean-eric-espiegle, a Junior Full STack Developer
 - 👀 I’m interested in Sotware and Web Development
-- 🌱 I’m currently learning Angular
-- 📫 How to reach me:
--   Email: jean.eric.espiegle@gmail.com
+- Languages:
+-   Python
+-   JavaScript
+-   PHP
+-   C/C++
+-   Java
+  
+- Frameworks:
+-   Vue3
+-   Django
+-   Flask
+-   Pyramids
+-   NodeJS
 
 <!---
 jean-eric-espiegle/jean-eric-espiegle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
