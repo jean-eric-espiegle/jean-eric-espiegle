@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jean-eric-espiegle, a Junior Full STack Developer
-- 👀 I’m interested in Sotware and Web Development
+👋 Hi, I’m @jean-eric-espiegle, a Junior Full STack Developer
+👀 I’m interested in Sotware and Web Development
 - Languages:
 - - Python
 - - JavaScript
