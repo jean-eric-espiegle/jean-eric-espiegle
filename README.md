@@ -1,19 +1,27 @@
-👋 Hi, I’m @jean-eric-espiegle, a Junior Full STack Developer
-👀 I’m interested in Sotware and Web Development
-- Languages:
-- - Python
-- - JavaScript
-- - PHP
-- - C/C++
-- - Java
+<h2>Jean-Eric Espiegle</h2>
+<h3>Junior Full Stack Developer</h3>
+<p>I’m interested in Sotware and Web Development</p>
+
+<h4>Languages</h4>
+<img src="https://skillicons.dev/icons?i=js,html,css,py,go">
   
-- Frameworks:
-- - Nuxt 3
-- - Vue3
-- - Django
-- - Flask
-- - Pyramids
-- - NodeJS
+<h4>Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=nuxtjs,vue,django,flask,fastapi,nodejs">
+  
+<h4>Databases</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,mysql,sqlite">
+  
+<h4>Deployment</h4>
+  <img src="https://skillicons.dev/icons?i=heroku,aws,netlify">
+
+<h4>Containerization</h4>
+  <img src="https://skillicons.dev/icons?i=docker">
+
+
+
+
+
+
 
 <!---
 jean-eric-espiegle/jean-eric-espiegle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
