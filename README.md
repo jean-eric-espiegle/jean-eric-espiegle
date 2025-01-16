@@ -8,6 +8,7 @@
 - - Java
   
 - Frameworks:
+- - Nuxt 3
 - - Vue3
 - - Django
 - - Flask
